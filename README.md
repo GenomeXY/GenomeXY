@@ -1,12 +1,14 @@
-## Hi there 👋 I'm a Unity developer from Minsk, Belarus.
+## 👋 Hi there, I'm Ilya - Game Developer from Minsk, Belarus.
 
-I'm always open to connecting with like-minded professionals interested in game development, interactive experiences, or discussing innovative ideas. Feel free to reach out if you’d like to collaborate or seek assistance on a project!
+I’m currently developing browser games with **Unity** and **WebGL**, learning English, and exploring everything related to game development.
 
+When I’m not coding, you’ll probably find me training in Thai boxing, swimming, playing chess, cycling in the warm seasons, or skiing in winter. I’ve been a vegetarian for over 15 years and always try to stay healthy and active.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GenomeXY&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenomeXY&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GenomeXY&theme=github)
-<h3>🛠️ Core Technologies & Tools</h3>
+
+## 🛠️ Core Technologies & Tools
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -24,9 +26,16 @@ I'm always open to connecting with like-minded professionals interested in game 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-<h3>⚡ My streak Stats</h3>
+## 👾 My Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GenomeXY&theme=github-light)](https://git.io/streak-stats)
+
+## 📫 Let's Connect
+
+I'm always open to connecting with like-minded professionals interested in game development, interactive experiences, or discussing innovative ideas. Feel free to reach out if you’d like to collaborate or seek assistance on a project!
+
+- Telegram: [@GenomeXY](https://t.me/GenomeXY)
+- Blog: [Genome Games](https://t.me/genomegames)
 
 <!--
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -44,5 +53,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
