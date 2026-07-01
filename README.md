@@ -1,8 +1,8 @@
-## 👋 Hi there, I'm Ilya - Game Developer from Minsk, Belarus.
+## 👋 Hi there, I'm Ilya - Unity Game Developer based in Minsk, Belarus.
 
-I’m currently developing browser games with **Unity** and **WebGL**, learning English, and exploring everything related to game development.
+I specialize in developing browser and mobile games using **Unity**. I am passionate about clean code, continuous learning, and exploring advanced game development techniques.
 
-When I’m not coding, you’ll probably find me training in Thai boxing, swimming, playing chess, cycling in the warm seasons, or skiing in winter. I’ve been a vegetarian for over 15 years and always try to stay healthy and active.
+When I’m not coding, I stay active through Thai boxing, swimming, cycling, and winter skiing. I also enjoy playing chess and have maintained a healthy, vegetarian lifestyle for over 15 years.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GenomeXY&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GenomeXY&theme=github)
@@ -32,10 +32,14 @@ When I’m not coding, you’ll probably find me training in Thai boxing, swimmi
 
 ## 📫 Let's Connect
 
-I'm always open to connecting with like-minded professionals interested in game development, interactive experiences, or discussing innovative ideas. Feel free to reach out if you’d like to collaborate or seek assistance on a project!
+I am always open to networking with fellow developers, discussing innovative ideas, or exploring new career opportunities. Feel free to reach out if you'd like to collaborate or chat about game dev!
 
 - Telegram: [@GenomeXY](https://t.me/GenomeXY)
 - Blog: [Genome Games](https://t.me/genomegames)
+
+## ‼️ Note
+
+I do not work on projects related to gambling, betting, casinos, or any themes that promote unhealthy habits and dependencies.
 
 <!--
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
